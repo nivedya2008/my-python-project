@@ -15,3 +15,20 @@ A high-performance Python security tool designed to generate cryptographically s
 * **Education:** 2nd-Year BCA student
 * **Focus Area:** Python Engineering, Automation, and Secure Input Validation.
 * **Goal:** Building clean, optimized, and production-ready source code.
+
+
+## Link Shorter & QR Code Generator
+
+A simple and engaging Python terminal-based program that helps users shorten long URLs and automatically generates a text-based ASCII QR code in the terminal.
+
+### Features
+- **User Greetings:** Interactive welcome with username input.
+-**URL Validation:** Checks if the URL starts with 'http://' or 'https://'.
+-**Link Shortener:** Generates a simulated short link.
+-**ASCII QR Code:** Automatically creates a fun QR code in the console.
+
+### How to Run
+Run the following command in your terminal:
+'''bash
+python link_tool.py
+'''
