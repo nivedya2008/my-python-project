@@ -32,3 +32,9 @@ Run the following command in your terminal:
 '''bash
 python link_tool.py
 '''
+
+
+### 4. Smart Contact Book (CLI Applicaton)
+* **Description:** An interactive command-line application that allows users to add, view, search, and delete contacts dynamically.
+* **Key Features:** Input validation (ensuring strict 10-digit phone numbers and valid emails), custom error handling (`try-except`), and local data persistence using JSON formatting.
+* **Core File:** `contact_book.py`
